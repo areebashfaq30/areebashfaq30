@@ -1,98 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=AREEB%20ASHFAQ%20CH&fontSize=60&fontColor=FFDAB9&animation=fadeIn" width="100%"/>
-</div>
+# 💫 About Me:
+Hi, I'm Areeb, a final-year student passionate about AI and software development. I enjoy building AI-powered applications, exploring new technologies, and turning ideas into real-world solutions.
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=ASPIRING+DATA+SCIENTIST;C%2B%2B+%7C+PYTHON+%7C+SQL;BUILDING+DATA+PIPELINES+%26+AUTOMATION" alt="Typing SVG" />
-</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/areeb-ashfaq-421010319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/areebashfaq30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="mailto:areebashfaq387@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/areeb-ashfaq-421010319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:areebashfaq8@gmail.com) 
 
----
-
-### 👨‍💻 About Me
-
-```python
-class AboutMe:
-    name = "Areeb Ashfaq Ch"
-    education = "BS Data Science"
-    specialization = "C++ | Python | SQL | Automation"
-
-    def current_focus(self):
-        return "Building data pipelines & automation workflows"
-```
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data & Automation**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-FDD100?style=for-the-badge&logo=knime&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Visualization**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=areebashfaq30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=areebashfaq30&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=areebashfaq30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=areebashfaq30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 💼 **Automated Job Insights** | Automated job market analytics pipeline collecting & analyzing AI/ML job postings | Airflow, KNIME, n8n, Python |
-| 📅 **Calendar WhatsApp Notifier** | n8n workflow: Google Calendar trigger + WhatsApp notifications | n8n, Google Calendar, Twilio |
-| 🛒 **E-Commerce SQL System** | Database design with table creation, data insertion, and advanced queries | SQL |
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/areebashfaq30/automated-job-insights"><img src="https://img.shields.io/badge/Job_Insights-C0C0C0?style=for-the-badge&logo=python&logoColor=black" alt="Job Insights"/></a>
-  <a href="https://github.com/areebashfaq30/n8n-automated-calendar-whatsapp-workflow"><img src="https://img.shields.io/badge/Calendar_Notifier-C0C0C0?style=for-the-badge&logo=n8n&logoColor=black" alt="Calendar Notifier"/></a>
-  <a href="https://github.com/areebashfaq30/E-Commerce-Catalog-and-Orders-Management-System"><img src="https://img.shields.io/badge/E--Commerce_SQL-C0C0C0?style=for-the-badge&logo=mysql&logoColor=black" alt="E-Commerce SQL"/></a>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areebashfaq30&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&card_width=380" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebashfaq30&theme=synthwave&hide_title=true&hide_border=true&card_width=380" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-ashfaq-421010319)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areebashfaq387@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
